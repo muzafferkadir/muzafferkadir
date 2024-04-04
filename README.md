@@ -1,7 +1,7 @@
 ### Hi there, I'm Muzaffer Kadir YILMAZ 👋
 
 <img src="https://komarev.com/ghpvc/?username=muzafferkadir&label=Profile%20views&color=0e75b6&style=flat" alt="muzafferkadir" />
-🧑🏻‍💻 I am a computer engineer, I work as a full-stack developer, and I am an expert and proficient in JavaScript technologies. I have diverse experience with front-end, back-end, and also with architecture and DevOps.
+Software developer with 4+ years of experience who has worked on the back-end and front-end of various websites, from successful startups to e-commerce, messaging, and news services. Proven skills in problem-solving, analytical thinking, and creativity across diverse projects. Experienced in JavaScript technologies such as Node.js (Express), Vue, and React. Also has a good knowledge of MongoDB, Docker, and DevOps.
 
 
 
