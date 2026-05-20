@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Muzaffer Kadir YILMAZ's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 197, Total Commits  (last year) : 1093, Total PRs: 355</desc>
+        <desc id="descId">Total Stars Earned: 197, Total Commits  (last year) : 1099, Total PRs: 355</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 40.84046575905351;
+        stroke-dashoffset: 40.807091255148734;
       }
     }
   
